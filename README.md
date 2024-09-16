@@ -3,10 +3,17 @@
 
 This is a trivia quiz application built using React. It fetches five trivia questions from an external API and presents them to the user. Users can select an answer from randomly shuffled options, and feedback is given for correct and incorrect answers. Once all questions are attempted, the app refreshes automatically. The project showcases use of React state management, conditional rendering, and making API requests.
 
+## Technologies used
+- HTML<br>
+- CSS<br>
+- React<br>
+- JSX<br>
+- Javascript<br>
+
 ## Project Structure
 All files are in the same(root) directory.
 
--main.jsx: Entry point for rendering the app into the root DOM element.
+-main.jsx: Entry point for rendering the app into the root DOM element. <br>
 -App.jsx: Main application component that renders the quiz interface and the Question component.
 -Question.jsx: Component responsible for fetching questions from the API and rendering them, including logic for handling answers and displaying results.
 -App.css: Styles specific to the quiz interface.
