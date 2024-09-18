@@ -13,7 +13,7 @@ This is a trivia quiz application built using React. It fetches five trivia ques
 ## Project Structure
 All files are in the same(root) directory.
 
-|         File    |         Description                                                                             |
+|           |                                                                                    |
 |-------------------|---------------------------------------------------------------------------------------------------|
 | main.jsx          | Entry point for rendering the app into the root DOM element.                                       |
 | App.jsx           | Main application component that renders the quiz interface and the Question component.             |
@@ -25,7 +25,6 @@ All files are in the same(root) directory.
 | .gitignore        | Specifies files and directories to ignore in version control.                                     |
 | package.json      | Manages project dependencies and scripts.                                                         |
 | vite.config.js    | Configuration file for Vite, the development server used in this project.                         |
-|||
 
 ## Usage
 
