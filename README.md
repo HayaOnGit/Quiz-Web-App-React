@@ -13,16 +13,16 @@ This is a trivia quiz application built using React. It fetches five trivia ques
 ## Project Structure
 All files are in the same(root) directory.
 
-- main.jsx: Entry point for rendering the app into the root DOM element.
-- App.jsx: Main application component that renders the quiz interface and the Question component.
-- Question.jsx: Component responsible for fetching questions from the API and rendering them, including logic for handling answers and displaying results.
-- App.css: Styles specific to the quiz interface.
-- index.css: General global styles.
-- index.html: HTML file containing the root div element where the app is rendered.
-- .eslintrc.cjs: ESLint configuration file to maintain code quality.
-- .gitignore: Specifies files and directories to ignore in version control.
-- package.json: Manages project dependencies and scripts.
-- vite.config.js: Configuration file for Vite, the development server used in this project.
+**main.jsx:** &nbsp; Entry point for rendering the app into the root DOM element.<br>
+**App.jsx:** &nbsp; Main application component that renders the quiz interface and the Question component.<br>
+**Question.jsx:** &nbsp; Component responsible for fetching questions from the API and rendering them, including logic for handling answers and displaying results.<br>
+**App.css:** &nbsp; Styles specific to the quiz interface.<br>
+**index.css:** &nbsp; General global styles.<br>
+**index.html:** &nbsp; HTML file containing the root div element where the app is rendered.<br>
+**.eslintrc.cjs:** &nbsp; ESLint configuration file to maintain code quality.<br>
+**.gitignore:** &nbsp; Specifies files and directories to ignore in version control.<br>
+**package.json:** &nbsp; Manages project dependencies and scripts.<br>
+**vite.config.js:** &nbsp; Configuration file for Vite, the development server used in this project.<br>
 
 ## Usage
 
