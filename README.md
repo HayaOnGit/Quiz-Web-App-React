@@ -36,11 +36,16 @@ Clone or download the repository.
 ```
 git clone https://github.com/HayaOnGit/Quiz-Web-App-React.git
 ```
-Run ```
+Run
+```
 npm install
 ```
 to install the necessary dependencies.<br>
-Run ``` npm run dev``` to start the development server (powered by Vite).<br>
+Run 
+```
+npm run dev
+```
+to start the development server (powered by Vite).<br>
 Open the provided localhost link in your web browser to view the app.<br>
 
 ## Contributing
